@@ -21,5 +21,5 @@ function contentsearch ($pattern, $path, $type)
 	}
 	cd $dir
 }
-
+#call function 
 contentsearch $regexpattern $searchpath $filetype
