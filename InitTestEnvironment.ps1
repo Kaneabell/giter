@@ -10,7 +10,7 @@
     3. Select a certain version of OUTLOOK to install.
 #>
 
-###### Const ########
+###### Const ########   
 $OLK14SetupPath_64bit = "\\products\PUBLIC\PRODUCTS\Applications\User\Office_2010_SP1\64-bit\Office_ProfessionalPlus_2010_SP1\"
 $OLK14SetupPath_32bit = "\\products\PUBLIC\PRODUCTS\Applications\User\Office_2010_SP1\32-bit\Office_ProfessionalPlus_2010_SP1\"
 $OLK15SetupPath_32bit = "\\products\PUBLIC\PRODUCTS\Applications\User\Office_2013\English\MSI\32-Bit\Office_Professional_2013\"
